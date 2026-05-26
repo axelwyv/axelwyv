@@ -17,3 +17,7 @@ Estudiante Universitario<br>Generador de contenido<br>Fan de los videojuegos y a
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+### ⚡ Recent Activity
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update--> 
